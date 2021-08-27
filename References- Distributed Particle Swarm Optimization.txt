@@ -1,0 +1,17 @@
+Abbas, N.H. and Abdulsaheb, J.A. (2016). An adaptive multi-objective particle swarm optimization algorithm for multi-robot path planning. Journal of Engineering, 22(7), 164–181.
+Ayari, A. and Bouamama, S. (2017). A new multiple robot path planning algorithm: dynamic distributed particle swarm optimization. Robotics and biomimetics, 4(1), 1–15.
+Bouamama, S. (2010). A new distributed particle swarm optimization algorithm for constraint reasoning. In International Conference on Knowledge-Based and Intelligent Information and Engineering Systems, 312–321. Springer.
+Bullo, F., Cortes, J., and Martinez, S. (2009). Distributed control of robotic networks: a mathematical approach to motion coordination algorithms, volume 27. Princeton University Press.
+Cardona, G.A. and Calderon, J.M. (2019). Robot swarm navigation and victim detection using rendezvous consensus in search and rescue operations. Applied Sciences, 9(8), 1702.
+Cardona, G.A., Ramirez-Rugeles, J., Mojica-Nava, E., and Calderon, J.M. (2021). Visual victim detection and quadrotor-swarm coordination control in search and rescue environment. International Journal of Electrical & Computer Engineering (2088-8708), 11(3).
+Casper, J. and Murphy, R.R. (2003). Human-robot interactions during the robot-assisted urban search and rescue response at the world trade center. IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics), 33(3), 367–385.
+Couceiro, M.S., Ferreira, N., and Tenreiro Machado, J. (2011a). Fractional order darwinian particle swarm optimization. In Symposium on fractional signals and systems, 127–136.
+Couceiro, M.S., Rocha, R.P., and Ferreira, N.M. (2011b). A novel multi-robot exploration approach based on particle swarm optimization algorithms. In 2011 IEEE International Symposium on Safety, Security, and Rescue Robotics, 327–332. IEEE.
+Dube, R., Gawel, A., Cadena, C., Siegwart, R., Freda, L., and Gianni, M. (2016). 3d localization, mapping and path planning for search and rescue operations. In 2016 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR), 272–273. IEEE.
+Gordon, D.M. (2010). Ant encounters: interaction networks and colony behavior, volume 1. Princeton University Press.
+Huang, C.L. and Dun, J.F. (2008). A distributed pso–svm hybrid system with feature selection and parameter optimization. Applied soft computing, 8(4), 1381–1391.
+Kumar, A.S., Manikutty, G., Bhavani, R.R., and Couceiro, M.S. (2017). Search and rescue operations using robotic darwinian particle swarm optimization. In 2017 International Conference on Advances in Computing, Communications and Informatics (ICACCI), 1839–1843. IEEE. 
+Leon, J., Cardona, G.A., Botello, A., and Calderon, J.M. (2016). Robot swarms theory applicable to seek and rescue operation. In International Conference on Intelligent Systems Design and Applications, 1061–1070. Springer.
+Mahmud, M.S.A., Abidin, M.S.Z., Emmanuel, A.A., and Hasan, H.S. (2020). Robotics and automation in agriculture: Present and future applications. Applications of Modelling and Simulation, 4, 130–140.
+Siegwart, R., Nourbakhsh, I.R., and Scaramuzza, D. (2011). Introduction to autonomous mobile robots.
+Thomas, V. and Lopez, R. (2015). Global increase in climate-related disasters. Asian Development Bank Economics Working Paper Series, (466).
